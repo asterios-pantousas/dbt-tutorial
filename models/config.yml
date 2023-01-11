@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: asterios_playground # this is the source_name
+    database: raw
+
+    tables:
+      - name: orders
